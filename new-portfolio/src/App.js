@@ -25,7 +25,6 @@ function App() {
           </Route>
         </Layout>
       </div>
-      //Hello
     </>
   );
 }
