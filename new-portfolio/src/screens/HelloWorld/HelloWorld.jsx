@@ -1,6 +1,6 @@
 import "./HelloWorld.css";
 import { Link } from "react-scroll";
-import TypewriterEffect from "react-typewriter-effect";
+// import TypewriterEffect from "react-typewriter-effect";
 
 function HelloWorld() {
   return (
